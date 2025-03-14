@@ -1,6 +1,6 @@
 # PASSWORD - 2025
 
-Russian 🇷🇺
+[Russian 🇷🇺](https://github.com/GhostlyBow/XWorm-V5.6/blob/main/README_ru.md)
 
 **Xworm 5.6** is a powerful Remote Administration Tool (RAT) designed for managing and monitoring remote systems. It provides extensive control over target devices, allowing you to execute commands, collect data, and perform various tasks remotely. 🖥️🔍
 
