@@ -1,5 +1,7 @@
 # PASSWORD - 2025
 
+Russian 🇷🇺
+
 **Xworm 5.6** is a powerful Remote Administration Tool (RAT) designed for managing and monitoring remote systems. It provides extensive control over target devices, allowing you to execute commands, collect data, and perform various tasks remotely. 🖥️🔍
 
 ## Key Features 🛠️
